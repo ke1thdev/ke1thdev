@@ -1,18 +1,8 @@
 <div align="center">
 
-```
-'##:::'##:'########::::'##:::'########:'##::::'##::::::'########::'########:'##::::'##:
- ##::'##:: ##.....:::'####:::... ##..:: ##:::: ##:::::: ##.... ##: ##.....:: ##:::: ##:
- ##:'##::: ##::::::::.. ##:::::: ##:::: ##:::: ##:::::: ##:::: ##: ##::::::: ##:::: ##:
- #####:::: ######:::::: ##:::::: ##:::: #########:::::: ##:::: ##: ######::: ##:::: ##:
- ##. ##::: ##...::::::: ##:::::: ##:::: ##.... ##:::::: ##:::: ##: ##...::::. ##:: ##::
- ##:. ##:: ##:::::::::: ##:::::: ##:::: ##:::: ##:'###: ##:::: ##: ##::::::::. ## ##:::
- ##::. ##: ########::'######:::: ##:::: ##:::: ##: ###: ########:: ########:::. ###::::
-..::::..::........:::......:::::..:::::..:::::..::...::........:::........:::::...:::::
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=ke1th.dev&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=full%20stack%20dev%20%C2%B7%20cs%20student%20%C2%B7%20PH%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=58&descSize=16&animation=fadeIn)
 
-### hey, i'm keith 👋
-**3rd Year CS Student · Full Stack Dev · Building stuff that actually gets used**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=building+things+that+actually+get+used;anonymous+chat+%40+istorya.chat;hybrid+LMS+%40+LOKAL;php+%2F+js+%2F+python+%2F+mysql;always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/ke1th.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://ke1th.dev)
 [![Istorya](https://img.shields.io/badge/istorya.chat-1a1a2e?style=flat-square&logo=chatbot&logoColor=white)](https://istorya.chat)
@@ -86,6 +76,18 @@ const keith = {
 </div>
 
 ---
+
+### 🐍 contribution snake
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/ke1thdev/ke1thdev/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=100&section=footer&animation=fadeIn)
 
 <div align="center">
 
