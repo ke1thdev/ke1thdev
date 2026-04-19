@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/ke1th.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://ke1th.dev)
 [![Istorya](https://img.shields.io/badge/istorya.chat-1a1a2e?style=flat-square&logo=chatbot&logoColor=white)](https://istorya.chat)
 [![GitHub followers](https://img.shields.io/github/followers/ke1thdev?style=flat-square&color=333)](https://github.com/ke1thdev?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=ke1thdev&style=flat-square&color=555&label=profile+views)](https://github.com/ke1thdev)
+[![Profile Views](https://komarev.com/ghpvc/?username=ke1thdev&style=flat-square&color=blue&label=profile+views)](https://github.com/ke1thdev)
 [![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ke1th.dev)
 
 </div>
@@ -66,6 +66,10 @@ const keith = {
 ![AWS](https://img.shields.io/badge/AWS_API_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![AOS](https://img.shields.io/badge/AOS-2563EB?style=flat-square&logoColor=white)
+![Driver.js](https://img.shields.io/badge/Driver.js-FBBF24?style=flat-square&logoColor=black)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-7B2FBE?style=flat-square&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
