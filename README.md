@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=ke1th.dev&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=full%20stack%20dev%20%C2%B7%20cs%20student%20%C2%B7%20PH%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=58&descSize=16&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=building+things+that+actually+get+used;anonymous+chat+%40+istorya.chat;hybrid+LMS+%40+LOKAL;php+%2F+js+%2F+python+%2F+mysql;always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=building+things+that+actually+get+used;anonymous+chat+%40+istorya.chat;offline-first+classroom+quizzes+%40+LOKAL;php+%2F+js+%2F+python+%2F+mysql;always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/ke1th.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://ke1th.dev)
 [![Istorya](https://img.shields.io/badge/istorya.chat-1a1a2e?style=flat-square&logo=chatbot&logoColor=white)](https://istorya.chat)
@@ -25,7 +25,7 @@ const keith = {
   stack:    ["PHP", "JavaScript", "Python", "MySQL", "Apache", "AWS"],
   currentlyBuilding: [
     "Istorya  — anonymous encrypted chat for Filipino college students",
-    "LOKAL LMS — hybrid LMS with PowerPoint add-in for classrooms",
+    "LOKAL — offline-first PowerPoint activities with browser-based student responses over LAN",
   ],
   belief: "any tech is worth it if it ships real solutions",
 };
@@ -38,7 +38,7 @@ const keith = {
 | Project | What it is | Stack |
 |---|---|---|
 | [**Istorya**](https://istorya.chat) | Anonymous encrypted chat platform for PH college students | PHP · MySQL · AWS WebSocket · FCM · Apache · Cloudflare |
-| [**LOKAL LMS**](https://github.com/ke1thdev) | Hybrid LMS — PowerPoint add-in + browser student interface | Node.js · SQLite · WebView2 · C# |
+| [**LOKAL**](https://github.com/ke1thdev/LOKAL-Downloads) | Offline-first PowerPoint classroom response system with five activity types, live browser-based answers, automatic and manual stars, leaderboards, and Excel reports. Local sessions work over LAN without internet. | Go · SQLite · C#/.NET · WinForms · JavaScript · HTML/CSS |
 | [**portfoliov4**](https://github.com/ke1thdev/portfoliov4) | My personal portfolio, v4 | CSS · HTML |
 | [**flappybird**](https://github.com/ke1thdev/flappybird) | Flappy Bird controlled by hand gestures via webcam | Python · OpenCV · MediaPipe |
 | [**slapnmoan**](https://github.com/ke1thdev/slapnmoan) | Laptop detects slaps and plays sounds. yes, really. | Python |
